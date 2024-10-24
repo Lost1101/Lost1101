@@ -1,4 +1,4 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![Visitor Count](https://profile-counter.glitch.me/{Lost1101}/count.svg)
 
 ### Hi! 👋 I'm Kamilah Insani.
 
