@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{Lost1101}/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/Lost1101/badge-it)](https://badges.pufler.dev)
 
 ### Hi! 👋 I'm Kamilah Insani.
 
