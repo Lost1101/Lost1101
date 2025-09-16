@@ -1,10 +1,9 @@
 ### Hi! 👋 I'm Kamilah Insani.
 
-Passionate tech enthusiasts, I'm an undergraduate student, I always work hard in learning about web development and developing my skills by creating both personal project and collab project with case study. Dedicated to learning additional technologies and coding languages. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+Passionate tech enthusiasts, I'm an fresh graduate student, I always work hard in learning about web development and developing my skills by creating both personal project and collab project with case study. Dedicated to learning additional technologies and coding languages. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 I'm a graduate student from RevoU x Kampus Merdeka Batch 6
 
-- 🌱 I’m currently learning about Machine Learning and JavaScript Frameworks
 - 💬 Feel free to ask me about web development
 - 📫 How to reach me: kamilah.insani1101@gmail.com
 
