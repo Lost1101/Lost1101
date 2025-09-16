@@ -1,5 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/Lost1101/badge-it)](https://badges.pufler.dev)
-
 ### Hi! 👋 I'm Kamilah Insani.
 
 Passionate tech enthusiasts, I'm an undergraduate student, I always work hard in learning about web development and developing my skills by creating both personal project and collab project with case study. Dedicated to learning additional technologies and coding languages. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
